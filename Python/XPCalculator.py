@@ -28,7 +28,7 @@ def main():
         print(f"Estimated time to reach your goal: {hours} hours and {minutes} minutes.")
     except ValueError:
         print("Please enter valid numbers for XP.")
-    print("Go fcking grind hard Kise.")
+    print("Go grind hard Kise.")
 
 if __name__ == "__main__":
     main()
